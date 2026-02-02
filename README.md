@@ -19,7 +19,10 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=royvivi29&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=royvivi29&theme=github_dark" />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=royvivi29&label=Profile%20views&color=0e75b6&style=flat" alt="royvivi29" /> </p>
+
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=royvivi29&label=Profile%20views&color=0e75b6&style=flat" alt="royvivi29" /> 
+</p>
 
 <br>
 
@@ -64,9 +67,5 @@
 <a href="https://github.com/royvivi29" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
 </a>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royvivi29&show_icons=true&locale=en&layout=compact" alt="royvivi29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royvivi29&" alt="royvivi29" /></p>
-
-[![An image of @royvivi29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/royvivi29)](https://holopin.io/@royvivi29)
+<a href="https://holopin.me/royvivi29">   <img src="https://holopin.me/royvivi29" alt="@@royvivi29 Holopin board" /> </a>
