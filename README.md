@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vivek Kumar Ray</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"> Yo!!! I'm Vivek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<p align="center">
+  <a href="www.linkedin.com/in/vivek-ray-kumar">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya LinkedIn" height='20' width='90'/>
+  </a>
+  <a href="(https://github.com/royvivi29)">
+    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>
+  </a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royvivi29&label=Profile%20views&color=0e75b6&style=flat" alt="royvivi29" /> </p>
 
