@@ -10,6 +10,7 @@
 
 <div align="center" width="50%">
 	<img src="https://tenor.com/qdIk1UBU9cJ.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
+	<br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royvivi29&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Vivek's GitHub Streak" /></p>
 </div>
 
@@ -69,4 +70,5 @@
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
 </a>
 
+<br>
 <a href="https://holopin.me/royvivi29">   <img src="https://holopin.me/royvivi29" alt="@@royvivi29 Holopin board" /> </a>
