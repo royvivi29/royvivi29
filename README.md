@@ -22,9 +22,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=royvivi29&theme=github_dark" />
 </div>
 
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=royvivi29&label=Profile%20views&color=0e75b6&style=flat" alt="royvivi29" /> 
-</p>
+
 
 <br>
 <div align="center">
