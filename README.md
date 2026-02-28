@@ -68,8 +68,6 @@
 <a href="https://www.linkedin.com/in/vivek-ray-kumar/" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
 </a>
-
-<a href="https://github.com/royvivi29" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
 </a>
 
