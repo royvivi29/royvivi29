@@ -20,16 +20,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=royvivi29&theme=github_dark"  />
 </div>
 
-
-
-<br>
-<div align="center">
-<a href="https://github.com/royvivi29">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=royvivi29&custom_title=Vivek's%20Contribution%20Graph&bg_color=0D1117&color=00FF00&line=FF00FF&point=FFFFFF&hide_border=true&area=true&area_color=00FF00" width="98%"/>
-</a>
-
-</div>
-<br>
 <h3> Languages, Tools and Technologies 🚀 </h3>
 <table>
 	<tr>
