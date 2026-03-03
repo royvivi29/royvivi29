@@ -8,11 +8,7 @@
   </a>
 </p>
 
-<div align="center" width="50%">
-	<img src="https://tenor.com/qdIk1UBU9cJ.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
-	<br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royvivi29&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Vivek's GitHub Streak" /></p>
-</div>
+
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royvivi29&theme=github_dark" />
