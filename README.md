@@ -3,7 +3,6 @@
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royvivi29&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=royvivi29&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=royvivi29&theme=github_dark"  />
 </div>
 
 <h3> Languages, Tools and Technologies 🚀 </h3>
