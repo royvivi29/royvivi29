@@ -1,4 +1,4 @@
-<h1 align="center"> Yo!!! I'm Vivek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Yo!!! I'm Vivek </h1>
 
 <div align="center">
 
