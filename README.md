@@ -27,11 +27,6 @@
 	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
 </tr>
 
-<tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
-</tr>
-
 </table>
 <br>
 
