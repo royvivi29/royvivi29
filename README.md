@@ -1,4 +1,3 @@
-<h1 align="center"> Yo!!! I'm Vivek </h1>
 
 <div align="center">
 
