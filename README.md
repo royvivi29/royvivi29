@@ -208,7 +208,7 @@
 </table>
 
 <br/>
-📊 GitHub Stats
+<h2>📊 GitHub Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=royvivi29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=royvivi29&theme=tokyonight&hide_border=true" width="48%" />
@@ -217,12 +217,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royvivi29&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
-📈 Contribution Graph
+<h2>📈 Contribution Graph </h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=royvivi29&theme=tokyo-night&hide_border=true" />
 </p>
 
-🤝 Let's Connect!
+<h2>🤝 Let's Connect! </h2>
 <p align="center">
   <a href="https://linkedin.com/in/vivek-ray-kumar">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin" />
