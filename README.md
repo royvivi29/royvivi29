@@ -166,7 +166,7 @@
 <div align="center">
 
 
-<h3>Languages, Tools and Technologies 🚀</h3>
+<h2>Languages, Tools and Technologies 🚀</h2>
 
 <table>
   <tr>
@@ -237,6 +237,7 @@
 <br>
 <a href="https://holopin.me/royvivi29">   <img src="https://holopin.me/royvivi29" alt="@@royvivi29 Holopin board" /> </a>
 
+<h2 align="center">💬 Quote of the Day</h2>
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>
