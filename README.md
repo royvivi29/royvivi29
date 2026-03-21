@@ -12,10 +12,7 @@
   <a href="mailto:vivekroy2964@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/royvivi29"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-<!-- ✅ NEW: Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=royvivi29&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=royvivi29&theme=tokyonight&no-frame=true&row=1&column=6" />
