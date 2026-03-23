@@ -214,6 +214,53 @@
   </tr>
 </table>
 
+---
+
+<h2 align="center">🎖️ Badges & Certifications</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/royvivi29/royvivi29/main/gssoc.png" width="120" /><br/>
+      <strong>GirlScript Summer of Code Extended</strong><br/>
+     <img src="https://img.shields.io/badge/Ranked-186th_Overall-blue?style=flat" /><br/>
+     <img src="https://img.shields.io/badge/PRs_Merged-17-brightgreen?style=flat" /><br/>
+     <img src="https://img.shields.io/badge/Total_Badges-6-blue?style=flat" /><br/>
+    </td>
+    <td align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://raw.githubusercontent.com/royvivi29/royvivi29/main/Explorer Badge.png" width="80" /><br/>
+            <sub>Explorer Badge</sub>
+          </td>
+          <td align="center">
+            <img src="https://raw.githubusercontent.com/royvivi29/royvivi29/main/Adventurer Badge.png" width="80" /><br/>
+            <sub>Adventurer Badge</sub>
+          </td>
+          <td align="center">
+            <img src="https://raw.githubusercontent.com/royvivi29/royvivi29/main/Champion Badge.png" width="80" /><br/>
+            <sub>Champion Badge</sub>
+          </td>
+          <td align="center">
+            <img src="https://raw.githubusercontent.com/royvivi29/royvivi29/main/Trailblazer Badge.png" width="80" /><br/>
+            <sub>Trailblazer Badge</sub>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://raw.githubusercontent.com/royvivi29/royvivi29/main/Summit Seeker Badge.png" width="80" /><br/>
+            <sub>Summit Seeker Badge</sub>
+          </td>
+          <td align="center">
+            <img src="https://raw.githubusercontent.com/royvivi29/royvivi29/main/Postman - Postman API Fundamentals Student Expert - 2024-10-29 (1).png" width="80" /><br/>
+            <sub>API Student Expert<br/>Postman</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <br/>
 <h2>📊 GitHub Stats </h2>
 <p align="center">
