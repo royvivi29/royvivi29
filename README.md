@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vivek Kumar Ray 👋</h1>
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Final-Year+CS+Student+%40+GEC+Bhubaneswar;MERN+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+MongoDB;Open+Source+Contributor+%7C+GSSoC+2024;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+MongoDB;Open+Source+Contributor+%7C+GSSoC+2024;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
  <!-- ✅ NEW: Open to Work Badge -->
 <p align="center">
