@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Vivek Kumar Ray 👋</h1>
  
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+MongoDB;Open+Source+Contributor+%7C+GSSoC+2024;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+MongoDB;Open+Source+Contributor+%7C+GSSoC+2024;Fresh+Graduate+%7C+Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
- <!-- ✅ NEW: Open to Work Badge -->
+ <!-- ✅ Open to Work Badge -->
 <p align="center">
+  <img src="https://img.shields.io/badge/🎓_Fresh_Graduate-2026-blue?style=for-the-badge" alt="Fresh Graduate 2026" />
   <img src="https://img.shields.io/badge/🚀_Open_to_Work-Frontend_|_Full_Stack_|_React-brightgreen?style=for-the-badge" alt="Open to Work" />
 </p>
 <p align="center">
@@ -23,7 +24,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=royvivi29&show_icons=true&theme=tokyonight&hide_border=true" width="380" />
 </p>
 
-<p>🎓 Final-year <strong>B.Tech Computer Science</strong> student at Gandhi Engineering College, Bhubaneswar &nbsp;·&nbsp; CGPA: <strong>7.8/10</strong></p>
+<p>🎓 <strong>B.Tech Computer Science Graduate</strong> from Gandhi Engineering College, Bhubaneswar &nbsp;·&nbsp; CGPA: <strong>7.8/10</strong></p>
 
 <p>💻 Full-stack developer specializing in the <strong>MERN stack</strong> — MongoDB, Express.js, React.js, Node.js</p>
 
@@ -38,6 +39,8 @@
 <p>🔭 Currently building: <strong>Monotype</strong> — a short-form literary platform</p>
 
 <p>👯 Looking to collaborate on <strong>open-source MERN stack</strong> projects</p>
+
+<p>🚀 Actively seeking <strong>Frontend / Full Stack Developer</strong> roles</p>
 
 <p>📬 Reach me at: <a href="mailto:vivekroy2964@gmail.com">vivekroy2964@gmail.com</a></p>
 
@@ -107,6 +110,25 @@
         <li>Dynamic form handling, profile management, job recommendation UI</li>
       </ul>
     </td>
+  </tr>
+</table>
+
+---
+
+<h2>🎓 Education</h2>
+
+<table>
+  <tr>
+    <th>🏫 Institution</th>
+    <th>📚 Degree</th>
+    <th>📅 Year</th>
+    <th>📊 CGPA</th>
+  </tr>
+  <tr>
+    <td>Gandhi Engineering College, Bhubaneswar</td>
+    <td>B.Tech, Computer Science Engineering</td>
+    <td>2022 – 2026</td>
+    <td>7.8/10</td>
   </tr>
 </table>
 
@@ -295,7 +317,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>
-<!-- ✅ NEW: Snake Animation -->
+<!-- ✅ Snake Animation -->
 <h2 align="center">🐍 My Contributions</h2>
 <p align="center">
   <picture>
