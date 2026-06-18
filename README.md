@@ -293,11 +293,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royvivi29&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
-<h2>📈 Contribution Graph </h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=royvivi29&theme=tokyo-night&hide_border=true" />
-</p>
-
 <h2>🤝 Let's Connect! </h2>
 <p align="center">
   <a href="https://linkedin.com/in/vivek-ray-kumar">
@@ -317,12 +312,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>
-<!-- ✅ Snake Animation -->
-<h2 align="center">🐍 My Contributions</h2>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/royvivi29/royvivi29/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/royvivi29/royvivi29/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/royvivi29/royvivi29/output/github-snake.svg" />
-  </picture>
-</p>
+
+
